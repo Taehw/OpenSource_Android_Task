@@ -10,29 +10,37 @@
         android:id="@+id/button1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="네이버 접속"
-        android:background="@drawable/buttonatri" />
+        android:background="@drawable/buttonatri"
+        android:text="네이버 접속" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="911전화하기"
-        android:background="@drawable/buttonatri"/>
+        android:background="@drawable/buttonatri"
+        android:text="911전화하기" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="갤러리 열기"
-        android:background="@drawable/buttonatri"/>
+        android:background="@drawable/buttonatri"
+        android:text="갤러리 열기" />
 
     <Button
         android:id="@+id/button4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="끝내기"
-        android:background="@drawable/buttonatri"/>
+        android:background="@drawable/buttonatri"
+        android:text="끝내기" />
 
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2020039079_김태화"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_margin="30dp"/>
 </LinearLayout>
