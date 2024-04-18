@@ -121,7 +121,7 @@
         android:layout_gravity="fill_horizontal"
         android:layout_marginTop="5dp"
         android:layout_row="4"
-        android:text="더하기" />
+        android:text="더하기             김태화_2020039079" />
 
     <Button
         android:id="@+id/btnSub"
